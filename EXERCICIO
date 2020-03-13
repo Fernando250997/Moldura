@@ -1,0 +1,20 @@
+package TED;
+
+public class TEDAM {
+	
+	
+	public static void main(String[] args){
+	 
+	 double base, altura, areainter;
+	 
+	 base = 30;
+	 altura = 10;
+	 areainter = (base * altura) * 2;
+	 
+	 System.out.println("A area da moldura da base = " + base);
+	 System.out.println("e altura " + altura);
+	 System.out.println("é area interna" + 2);
+	 System.out.println("é" + areainter);
+	 
+	 }
+}
